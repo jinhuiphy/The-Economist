@@ -1,82 +1,83 @@
 Cover	1
 Contents	3
-The world this week	8
-	A summary of political and business news	8
-Leaders	13
-	America’s election When every vote counts	13
-	War in the Horn Ethiopia unravels	14
-	Financial markets Fixing the plumbing	14
-	Secularism and Islam Voltaire’s heirs	15
-	5G technology Open sesame	16
-Letters	18
-	On nature, the Arctic, John Kennedy, Taiwan, culture, capitalists, Berlin, Albanians	18
-Briefing	20
-	Covid-19 in Europe The relapse	20
-United States	23
-	Hello, 46	23
-	A divided Congress	25
-	Polling error redux	26
-	Election lawsuits	26
-	Governors’ races and ballot initiatives	27
-	Lexington What now for Trumpism?	28
-The Americas	29
-	Canadian jobs come back	29
-	E-commerce in the rainforest	30
-	Bello Stunted philanthropy	32
-Asia	33
-	Elections in Myanmar	33
-	Bigger than K-pop	35
-	Banyan Kiwis vote for the right to die	36
-China	37
-	Aiming to deglobalise	37
-	Chaguan Who cares who leads America?	39
-Middle East & Africa	40
-	Conflict in Ethiopia	40
-	Bobi Wine’s meteoric rise in Uganda	41
-	Bad elections in Africa	42
-	The Arab debt toll	43
-	The tales of Robert Fisk	44
-Europe	45
-	Russia’s armed forces	45
-	Terrorism in Europe	46
-	Stalemate in Belarus	47
-	Happy Galicia	48
-	Sweden’s booze rules	48
-	Charlemagne Baldrick’s	49
-Europe
-Britain	50
-	Nigel Farage is back	50
-	Remembrance Day	51
-	Bagehot Labour’s Captain Foresight	52
-International	53
-	Global hipsters	53
-Business	55
-	USA Inc’s recovery	55
-	Xiaomi’s surging sales	56
-	The turkey glut	57
-	Clash of the video games	58
-	Bartleby Psychometric tests	59
-	Schumpeter A Japanese tech battle Finance & economics	60
-	The Treasury market	62
-	Buttonwood The sturdy dollar	63
-	Ant’s IPO, interrupted	64
-	The cost of lockdowns	65
-	Lebanon’s Ponzi scheme	65
-	Free exchange Import substitution	67
-Science & technology	68
-	Making superbatteries	68
-	T-cells and covid-19	70
-	Remote magnetism	72
-	Women stone-age hunters	72
-Books & arts	73
-	The colour black	73
-	The Sistine frescoes	74
-	China and the second world war	75
-	The Western mind	75
-	Martin Amis’s new book	76
-Economic & financial indicators	78
-	Statistics on 42 economies	78
-Graphic detail	79
-	Covid-19 super-spreading	79
-Obituary	80
-	Sean Connery, actor and Scottish nationalist	80
+The world this week	6
+	A summary of political and business news	6
+Leaders	9
+	Big tech competition The dust-up	9
+	South-East Asia China’s backyard	10
+	Innovation How to make sparks fly	11
+	Big men, big money Africa’s pricey politics	11
+	Tax-free shopping Call of duty	12
+Letters	14
+	On genocide, bitcoin, loneliness, model aircraft, daredevils, music	14
+Briefing	16
+	China in South-East Asia Tea and tributaries	16
+United States	19
+	The nuclear deterrent	19
+	500,000 and counting	20
+	Immigration reform	21
+	Quietly fixing Obamacare	21
+	Ending school exams	22
+	The Texas model	22
+	Lexington Teach first	24
+The Americas	25
+	Haiti on edge	25
+	Reggaeton rebellion	26
+	Bello The quiet death of Lava Jato	27
+Asia	29
+	Chinese bullying	29
+	Hijabs in Indonesia	30
+	Housing in South Korea	31
+	Banyan Hounding critics in India	32
+China	33
+	Making Hong Kong loyal	33
+	Wolf symbolism	34
+	Chaguan The rise of the long-distance commuter	35
+Middle East & Africa	36
+	Patronage in Africa	36
+	Atrocities in Tigray	37
+	Bibi courts Arab voters	38
+Europe	39
+	Russia and Turkey	39
+	Skiing in France	42
+	German hairdressers	42
+	Charlemagne Underground abortions	43
+Britain	44
+	How life sciences came to the rescue	44
+	Lifting lockdown	45
+	Bagehot The impossible job	46
+International	47
+	How covid19 boosts homeschooling	47
+Business	49
+	Competition and tech	49
+	Where dutyfree goes next	53
+	A shakeup at McKinsey	53
+	Bartleby Footinmouth disease	54
+	Schumpeter Facebook’s Apple problem Finance & economics	55
+	Europe’s carbon market...	56
+	...and a new one in China	57
+	Market jitters in Brazil	58
+	Cryptocurrencies	58
+	Buttonwood Cathie Wood	59
+	Work v child care	60
+	Cheap ways to cut carbon	60
+	Free exchange Social finance	62
+Science & technology	63
+	How Neanderthal genes affect covid19	63
+	Geoengineering	64
+	A videocall from Mars	64
+	Beaming electricity	65
+	Hydrogen paste as a fuel	65
+	Killer whales v sharks	66
+Books & arts	67
+	India’s embattled film industry	67
+	A novel of online life	68
+	A doubleagent’s life	69
+	Swashbuckling traders	69
+	Johnson ai and grammar	70
+Economic & financial indicators	72
+	Statistics on 42 economies	72
+Graphic detail	73
+	The spread of covid19 mutations	73
+Obituary	74
+	George Shultz, behind the scenes	74
